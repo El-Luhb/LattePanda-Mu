@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -70,10 +70,6 @@
         "courtyards_overlap|105816001|97503001|8a92f9b9-bef3-4728-b195-bb761562f4b5|cec563ad-1407-4b87-af0f-2e6cb240815f",
         "courtyards_overlap|154984783|133481707|3d93e218-875d-460b-a021-3cdb6694243b|cec563ad-1407-4b87-af0f-2e6cb240815f",
         "courtyards_overlap|154984783|69881707|964b4282-0a81-4bcd-aeb2-25a31e8522ca|cec563ad-1407-4b87-af0f-2e6cb240815f",
-        "holes_co_located|115246000|61223000|1167604c-4d3a-448a-85ef-f4aa8a5d8d54|c0e83e2c-c97c-4608-ab43-7d66e97b4224",
-        "holes_co_located|85246000|59473000|193ca3ae-5c85-4087-b247-68d2808af941|69ecbe13-12a6-4fab-829d-d8f523ddd9a4",
-        "holes_co_located|85246000|59473000|193ca3ae-5c85-4087-b247-68d2808af941|f504939b-7437-4da8-aeee-b95be7c5bdeb",
-        "holes_co_located|85246000|59473000|69ecbe13-12a6-4fab-829d-d8f523ddd9a4|f504939b-7437-4da8-aeee-b95be7c5bdeb",
         "starved_thermal|100682800|183083000|81552ff9-e7be-4a40-a7ae-99337411d627|6490110d-56d0-4a51-9288-c79a3e51f779|B.Cu",
         "starved_thermal|100682800|203653000|81552ff9-e7be-4a40-a7ae-99337411d627|28433d06-804b-4844-addc-c1e9c4aea226|B.Cu",
         "starved_thermal|113682800|181083000|81552ff9-e7be-4a40-a7ae-99337411d627|199fb984-62d5-4958-8198-3d7096b62680|F.Cu",
